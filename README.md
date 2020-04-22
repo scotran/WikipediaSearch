@@ -1,4 +1,4 @@
-# Wiki Search Engine
+# Wiki Search Engine :page_with_curl:
 
 A Wikipedia search tool that allows you to search for items in Wikipedia. It simply draws from Wikipedia's API.
 
