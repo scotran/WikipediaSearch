@@ -9,4 +9,4 @@ Simply clone repo or download files and run index.html!
 
 ### About
 
-Similar small projects can be viewed on [codepen](https://codepen.io/notthebest).
+Similar small projects can be viewed on my [codepen](https://codepen.io/notthebest).
