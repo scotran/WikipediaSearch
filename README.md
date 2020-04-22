@@ -1,6 +1,6 @@
 # Wiki Search Engine
 
-A Wikipedia search tool that allows you to search for items in wikipedia. It simply draws from Wikipedia's API.
+A Wikipedia search tool that allows you to search for items in Wikipedia. It simply draws from Wikipedia's API.
 
 ![Preview of Wikipedia Search](https://github.com/NotTheBest/WikipediaSearch/blob/master/Images/Preview.png?raw=true)
 ## Installing
