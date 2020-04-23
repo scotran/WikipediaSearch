@@ -1,6 +1,8 @@
 # Wiki Search Engine :page_with_curl:
 
-A Wikipedia search tool that allows you to search for items in Wikipedia. It simply draws from Wikipedia's API.
+A __Wikipedia search tool__ that allows you to search for items in Wikipedia. It simply draws from Wikipedia's API.
+
+Made with __jQuery__.
 
 ![Preview of Wikipedia Search](https://github.com/NotTheBest/WikipediaSearch/blob/master/Images/Preview.png?raw=true)
 ## Installing
